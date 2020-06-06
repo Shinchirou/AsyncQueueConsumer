@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/INU" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImagePicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kalkulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PTE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SocketMVC (another copy)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SocketMVC (copy)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ppj" vcs="Git" />
+  </component>
+</project>
